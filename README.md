@@ -11,10 +11,10 @@ The goal is to create a Bloomberg-style intelligence layer for RWA collectors an
 
 The RWA collectible market contains valuable opportunities, but users often need to manually monitor multiple sources to discover:
 
-Undervalued assets
-Rare collectible drops
-Market price differences
-Whale accumulation activities
+- Undervalued assets
+- Rare collectible drops
+- Market price differences
+- Whale accumulation activities
 
 Renaiss Alpha Radar automates this process by transforming ecosystem data into actionable intelligence.
 
@@ -60,9 +60,9 @@ Monitors Renaiss collectible card pack activity.
 
 Detects:
 
-Rare tier drops
-High-value collectibles
-Special card events
+- Rare tier drops
+- High-value collectibles
+- Special card events
 
 Helping communities discover important ecosystem moments faster.
 
